@@ -1,0 +1,39 @@
+_repo: The-Ghost-Seer--or-the-Apparitionist--and-Sport-of-Destiny_6781
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Johann Christoph Friedrich von
+    - Schiller, Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: "The Ghost-Seer or The Apparitionist (full title: Der Geisterseher –\
+  \ Aus den Papieren des Grafen von O**; literally, The Ghost-Seer – From the papers\
+  \ of the Count of O**) is an unfinished novel by Friedrich Schiller. It first appeared\
+  \ in several instalments from 1787 to 1789 in the journal Thalia, later appearing\
+  \ as a three-volume book in its own right.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6781'
+  wikidata: Q1193812
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcsh 'Venice (Italy) -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: The Ghost-Seer; or the Apparitionist; and Sport of Destiny
+url: http://www.gutenberg.org/ebooks/6781
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%B6%D8%B1_%D8%A7%D9%84%D8%A3%D8%B1%D9%88%D8%A7%D8%AD
+- https://de.wikipedia.org/wiki/Der_Geisterseher
+- https://en.wikipedia.org/wiki/The_Ghost-Seer
+- https://pl.wikipedia.org/wiki/Spirytualista_(powie%C5%9B%C4%87)
